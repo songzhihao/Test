@@ -1,4 +1,4 @@
-package com.epsoft.efastpay.utils;
+﻿package com.epsoft.efastpay.utils;
 
 
 import com.epsoft.efastpay.pay.Base64;
@@ -10,7 +10,7 @@ import javax.crypto.spec.SecretKeySpec;
 /**
  * Created by ShaoYang on 2016/1/18.
  */
-/**
+/**测到个v啊可怜的女办卡的你
  * AES 是一种可逆加密算法，对用户的敏感信息加密处理 对原始数据进行AES加密后，在进行Base64编码转化；
  */
 public class AESOperator {
